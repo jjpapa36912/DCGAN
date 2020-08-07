@@ -1,2 +1,0 @@
-# MyRepository
-Tutorial
