@@ -14,3 +14,4 @@ files
 2. model.py
 3. agent.py  <===excute
 
+![img_align_celeba1b22225](https://user-images.githubusercontent.com/69250848/95428207-a9db0100-0983-11eb-83e5-091fbcb76b10.jpg)
